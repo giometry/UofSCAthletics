@@ -48,3 +48,16 @@ Recognizing these challenges, the University of South Carolina (UofSC) Athletics
 ---
 
 ### 3. R Model Script (e.g., `run_model.R`)
+
+**Purpose**: Train a predictive model using the cleaned data.
+
+**Input**:
+- Cleaned dataset from step 2 (e.g., `clean_data.csv`)
+
+**Instructions**:
+- Open your R modeling script (e.g., `run_model.R`).
+- Ensure it reads the cleaned CSV correctly.
+- Run the script in R or RStudio.
+
+**Output**:
+- An `.rds` file containing model parameters and performance metrics.
